@@ -1,0 +1,2 @@
+# Technology
+Component repository management, field of configuration management Repository (version control), a concept from the distributed revision control that refers to a data structure Repository clone, a concept from the distributed revision control Repository Open Service Interface Definition, O.K.I. specification that defines the storing and retrieving of digital content Software repository, a storage location that contains software packages and allows their installation
